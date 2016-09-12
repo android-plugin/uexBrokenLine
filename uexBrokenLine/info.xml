@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <uexplugins>
     <plugin
-        uexName="uexBrokenLine" version="3.0.4" build="4">
-		<info>4:更新适配机型使用的方法</info>
+        uexName="uexBrokenLine" version="4.0.0" build="5">
+    	        <info>5:4.0插件</info>
+		<build>4:更新适配机型使用的方法</build>
 		<build>3:样式同步ios</build>
 		<build>2:机型适配</build>
 		<build>1:修复创建Bitmap内存溢出</build>
